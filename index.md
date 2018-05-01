@@ -10,5 +10,18 @@ My team and I intially intended to implement many different games for our circus
 It is important to make sure that your ideas can be realisticly implemented throughout the design process.  If you try to implement to many things, you will be left with a design that looks half complete.
 
 ### User Input
-When starting a design, it is very important to make sure that you know  
+When starting a design, it is very important to make sure that you consider how your user will interact with the design.  If you do not know how the user will respond to the project, you will not be able to design a project that will be engaging and interactive.  For Design fo Tension, my team and I quickly realized that we would need to know why someone would like or dislike cat and dogs.  We conducted a survey through google forms and got responses that would help us design a chatbot that knew the most popular reasons for liking or disliking cats and dogs.
+![evidence2](https://cdn-images-1.medium.com/max/750/1*8IOLkrGOj-Si6FpmpBBIcw.png)
 
+Because of this, our chatbot was able to present the user with the most common options for the user.  It also help us figure out that dog lovers tend to dislike cats more than cat lovers disliked dogs.  This allowed us to design a flow for our chatbot on chatfuel that was able to present the user with responses that they would want to make. 
+![evidence3](https://cdn-images-1.medium.com/max/750/1*B6fzPSsLz1KwrD_JkNQDzA.png)
+
+By considering what users may respond with, our chatbot was able to be more interactive. Likewise, it was important in all of the other projects to make sure that the information was relevant to the user.
+
+### Different Prefrences
+Part of understanding the user is understanding that ever user is different.  When designing something, it is important to make sure that the information is relevant to the entire target audience.  In the project Design for Wellbeing, my team and I understood that users of different ages would have different intrests.  In our project, we wanted to suggest movies and songs to people to improve their mood.  We orginally were only going to be concerned with emotion, but we quickly realized that people of different ages may not be intrested in the pop songs of today.  We decieded that we should add age as well as emotion to our project, so we came up with this matrix to list our recomandations.
+![evidence 4](https://cdn-images-1.medium.com/max/750/1*Wi25pRVOODfONVSYwRfH3Q.png)
+
+By considering this, we were able to make our project more relevant to each user.  While we were able to fix it at the end, had we considered it earlier, we would have been able to add more options as well as making the entire project look cleaner.  I took this lesson that I learned, and applied it to the next project were I made sure I considered the entire audience base.
+
+###
