@@ -24,4 +24,19 @@ Part of understanding the user is understanding that ever user is different.  Wh
 
 By considering this, we were able to make our project more relevant to each user.  While we were able to fix it at the end, had we considered it earlier, we would have been able to add more options as well as making the entire project look cleaner.  I took this lesson that I learned, and applied it to the next project were I made sure I considered the entire audience base.
 
-###
+### Cleanliness vs Complexity
+It is also important to make sure you balance complexity and cleanliness of a project.  You don't want to make a project that is too simple, but if it is too complex then it will look too messy, and you won't be able to communicate the message that you wanted to communicate.  In Design for Understanding, I struggled with this balence. 
+![evidemce 5](https://cdn-images-1.medium.com/max/750/1*QP21N1PzKGRT5SEjZ-qp4g.png)
+
+For this design, it looks clean and nice, but I was afraid that it was not complex enough.  I was not sure how I could make it more complex without adding ridiculous features that would make it look messy, and muddle the message I was trying to send.  This balance is a part of HCI that I struggle with and is something I need to work on in the future.
+
+### Profesional Presentation
+If your design is not profesional then nobody will take your design seriously.  It is very important when starting your design to how you design will be viewed by others.  If you have a design that looks slaped together and scattered or a topic that seems immature, everyone will not take your design seriously.  This was very important for the project Design for Others.  My group and I were tasked with designing a webpage for corperate groups.  This made it very important to consider profesionalism.
+![evidence6](https://cdn-images-1.medium.com/max/750/0*aKV82EpyOO5Ptgm-.)
+![evidence7](https://cdn-images-1.medium.com/max/750/0*JpCWD5R98rwVE4XK.)
+
+We settled on this design because it conveyed the message of the website with a sleek design.  By considering profesionalism with all of my teams at the start, we were able to make a design that looked like we put a lot of hard work into it (which we did).
+### Concluding Remarks
+By making sure that I consider all of these factors, my future endeavors into Human Cumputer Interaction will look much better and be more profesional.  The lessons I learnd by doing all of these projects will be extremly valuable when it comes to matters of design. By considering these different factors before I start a project, I will be able to complete a managable, clean, relevant, and profesional design that is properly targeted at the correct audience.
+
+#####[Projects](https://dowdtd16.github.io/HCI-Portfolio/)
